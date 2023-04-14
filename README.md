@@ -29,3 +29,8 @@ pip install setuptools-rust
 ```shell
 whisper Flotsam.mp3
 ```
+
+## Execute python script
+```shell
+pyhton Whisper.py
+```
